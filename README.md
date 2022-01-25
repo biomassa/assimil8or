@@ -7,4 +7,4 @@ Can be useful when revisiting presets from previous patches when no one remember
 
 `lua inputs.lua <assimil8or preset file>`
 
-![screenshot](/Users/ars/Dropbox/coding/assimil8or/screenshot.png)
+![screenshot](screenshot.png)
