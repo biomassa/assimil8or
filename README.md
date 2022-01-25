@@ -6,3 +6,5 @@ Can be useful when revisiting presets from previous patches when no one remember
 #### Usage
 
 `lua inputs.lua <assimil8or preset file>`
+
+![screenshot](screenshot.png)
