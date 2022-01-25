@@ -83,5 +83,5 @@ end
 
 table.sort(sortTable)
 
-print ("\nAssimil8or CV Inputs and their routings:")
+print ("\nAssimil8or CV Inputs and their routings (" .. arg[1] .. "):")
 print (table.unpack(sortTable))
